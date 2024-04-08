@@ -4,7 +4,7 @@ We are SwEng Group 20 -> a group of 11 college students in [Trinity College Dubl
 
 Our system allows a user to identify sportswear brands through identification of their logo. We use an object recognition model, YOLOv7, a residual network model ResNet50 and an approximate nearest neighbour search tree supported by FAISS to provide this functionality.
 
-You can find our system overview diagram [here](https://github.com/ias-tcd/.github/files/14911417/IAS-TCD.Competitor.Matching.E2E.pdf).
+You can find our system overview diagram [here](https://ias-tcd.s3.eu-west-1.amazonaws.com/IAS-TCD+Competitor+Matching+E2E.pdf) or download it at [this link](https://github.com/ias-tcd/.github/files/14911417/IAS-TCD.Competitor.Matching.E2E.pdf).
 
 Our project is broken up into two repositories. You can find more details about our [front end](https://github.com/ias-tcd/competitor-matching-web-app) and our [back end](https://github.com/ias-tcd/competitor-matching-model) in their respective repositories.
 
